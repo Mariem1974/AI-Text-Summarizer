@@ -40,5 +40,7 @@ and instantly generate a compressed summary while keeping the main meaning.
 
 ## 📦 Installation
 
+Run the following command to install required packages:
+
 ```bash
 pip install streamlit sumy
