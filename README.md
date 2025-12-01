@@ -18,15 +18,6 @@ and instantly generate a compressed summary while keeping the main meaning.
 
 ---
 
-## 🎬 Demo Video
-
-<video width="400" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
-
----
-
 ## 🧠 Summarization Models Included
 
 | Model | Type | Notes |
